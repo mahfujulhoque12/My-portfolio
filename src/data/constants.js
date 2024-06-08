@@ -227,7 +227,7 @@ export const projects = [
     description:
       "IMDB clone is a movisite. here you can find all movies. here I alos use dark mode and light mood. you can search here your movie.aslo you can see top rated movies and tranding movies",
     image:
-      "https://private-user-images.githubusercontent.com/109509856/337919863-f925923d-5528-4da9-a0df-008fafd43e6e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4NjYwMDcsIm5iZiI6MTcxNzg2NTcwNywicGF0aCI6Ii8xMDk1MDk4NTYvMzM3OTE5ODYzLWY5MjU5MjNkLTU1MjgtNGRhOS1hMGRmLTAwOGZhZmQ0M2U2ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOFQxNjU1MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZmNkZjMwMjk1ZDZmNzc2NjA1ZTA1YTI2MDQ3YzQyYmRiMzBjYmI3Njg0MjEzNjliMTY3YzgyMmU0YWI1MzFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.TGVxNsGamaVVFefbQe7S00ZfoCO4j2w_c3qgitAhm68",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337931939-871e24e4-ef14-447b-90b5-c5b9b2898d8b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T210303Z&X-Amz-Expires=300&X-Amz-Signature=9349433fc831b0b339acf30f129a65075023e6abef9f2ea27914c8798063d34e&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=812421297",
     tags: ["Next js","Html","Tailwind"],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/Next-IMDb-clone",

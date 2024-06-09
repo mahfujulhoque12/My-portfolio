@@ -208,7 +208,7 @@ export const projects = [
     description:
       "GitHub User is a web aplication, you have to frist login here . Then you can see a github user dashboard. here you can see followers ,user , repo, and so on. so lets check it out ",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337960513-e9a3fe68-4e48-44ca-a457-8dcfd2194bd6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T095442Z&X-Amz-Expires=300&X-Amz-Signature=b271fb610999842187c9d076b5759834eccf96b81c705bec52a5bab8d7b01ad1&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=812565124",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337960513-e9a3fe68-4e48-44ca-a457-8dcfd2194bd6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T100653Z&X-Amz-Expires=300&X-Amz-Signature=7ea95877b4cfd34bb09e4ddd6701333e0b86b46d880e16dbf0874379c2466f54&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=812565124",
     tags: [
       "Html",
       "Css",

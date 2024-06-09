@@ -208,7 +208,7 @@ export const projects = [
     description:
       "GitHub User is a web aplication, you have to frist login here . Then you can see a github user dashboard. here you can see followers ,user , repo, and so on. so lets check it out ",
     image:
-      "https://private-user-images.githubusercontent.com/109509856/337919393-a88cd868-6ae7-4a42-9452-31df48a3b571.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4NjU1MDksIm5iZiI6MTcxNzg2NTIwOSwicGF0aCI6Ii8xMDk1MDk4NTYvMzM3OTE5MzkzLWE4OGNkODY4LTZhZTctNGE0Mi05NDUyLTMxZGY0OGEzYjU3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOFQxNjQ2NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NzdlODg3NDI0YTBiODc4ODIwMzEzY2IyNGZmYzhlZTQ5NDkyYjg0MTE2NjVlMjYwNjdiMDE0NWRkYzQ3NGQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.E0JPzcb-Htl3Yt7FbwPudVz-vkYafxWYUJPrhQT3SLA",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337959435-775e439a-526f-469c-abec-5316c6bf3935.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T084457Z&X-Amz-Expires=300&X-Amz-Signature=969cf4285af61b114d5df079da2d7d8ac30a071b79884e4286401cede64745dc&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=682417524",
     tags: [
       "Html",
       "Css",
@@ -227,7 +227,7 @@ export const projects = [
     description:
       "IMDB clone is a movisite. here you can find all movies. here I alos use dark mode and light mood. you can search here your movie.aslo you can see top rated movies and tranding movies",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337931939-871e24e4-ef14-447b-90b5-c5b9b2898d8b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T210303Z&X-Amz-Expires=300&X-Amz-Signature=9349433fc831b0b339acf30f129a65075023e6abef9f2ea27914c8798063d34e&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=812421297",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337958893-6a8862a8-bcec-4594-b868-797392e0e5ba.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T083612Z&X-Amz-Expires=300&X-Amz-Signature=69edbd26c725f2d1463b6d6eeb6a1ad83151d17de59117345d10f825f24b9e66&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=811656181",
     tags: ["Next js","Html","Tailwind"],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/Next-IMDb-clone",
@@ -240,7 +240,7 @@ export const projects = [
     description:
       "Text App is web Text Calculator. You can calculate you text using this app. note: this is a demo. not real :)",
     image:
-      "https://private-user-images.githubusercontent.com/109509856/337920263-cf4b53ac-e145-4a89-abc9-0a21dee49284.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4NjY0ODMsIm5iZiI6MTcxNzg2NjE4MywicGF0aCI6Ii8xMDk1MDk4NTYvMzM3OTIwMjYzLWNmNGI1M2FjLWUxNDUtNGE4OS1hYmM5LTBhMjFkZWU0OTI4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOFQxNzAzMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMjU4MWFlOTJjZjBiOWNhYTI1OTM5ZjBmM2ZiZGVkZThmZWE2ZmQyZTA0NjQxM2U0ODgzYzY4OWUwNDk3NWI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nTMGuByHlvveT5mJ6qgCqh8ar9m1wkPXWSYVuCqLGOs",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337959152-ff5ad85d-49bc-4ff9-b0a9-f2c6570c9ff4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T083921Z&X-Amz-Expires=300&X-Amz-Signature=b8bb7a9d1e3a38d923f9169942347e26a0f8aef3f29ca3b7a8fa3db50768a815&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=754714918",
     tags: [
       "Next js",
       "Bootstrap",
@@ -256,7 +256,7 @@ export const projects = [
     description:
       "This is a next js app. it's look like a blog/agency projects.",
     image:
-      "https://private-user-images.githubusercontent.com/109509856/337920562-da410f9d-1323-418a-8c5b-7dd8ada2a96a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4NjY3NjksIm5iZiI6MTcxNzg2NjQ2OSwicGF0aCI6Ii8xMDk1MDk4NTYvMzM3OTIwNTYyLWRhNDEwZjlkLTEzMjMtNDE4YS04YzViLTdkZDhhZGEyYTk2YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOFQxNzA3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NWJhMzAyNWI3YzcyODVjZTYwYzQ1MDhiMDI1ZjA5YmI0ZTU1NjBmZTczOTljZTZiYzNlOTZiMGY4NTAzYTA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.777djGcfrTS7eoda62S1qisMnSVThli2s8KONmrJ2Ug",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337959318-b972abf7-7591-4d05-bb06-6c6345994c3b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T084219Z&X-Amz-Expires=300&X-Amz-Signature=a125b12c4a203248822858dee38c0fb72bf20015a63b9315b42ffcf7816ebcdf&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=696392735",
     tags: ["Next js ","Tailwind"],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/Nextjs-agency-project",
@@ -269,7 +269,7 @@ export const projects = [
     description:
       "This is a city temperature application, you can find your city temperature in the application, :)",
     image:
-      "https://private-user-images.githubusercontent.com/109509856/337920875-9442d090-571b-40da-a02d-9749cd5e3c99.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4NjcxODcsIm5iZiI6MTcxNzg2Njg4NywicGF0aCI6Ii8xMDk1MDk4NTYvMzM3OTIwODc1LTk0NDJkMDkwLTU3MWItNDBkYS1hMDJkLTk3NDljZDVlM2M5OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOFQxNzE0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NTk5NzU0ZjEwYjNiNmE1MjViZWE1MmM4MzAxODRkMzI5YzE4ZTAxOWVjMjE1YmY3ODc1ZjBmZmY3NThkNzNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.RWhJOjceOBlOGU-f49rrwtQpxs9huQfj7AhQzTy2lrc",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337959229-f8e29e40-c294-422d-b705-9af8ab63cd56.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T084049Z&X-Amz-Expires=300&X-Amz-Signature=aa1389b649382cd7e79d400604cef4d5f39511bec50d9d4aadba6356a918b969&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=699298506",
     tags: ["Html","Tailwind","javascript",],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/Find-City-Temperature",
@@ -281,7 +281,7 @@ export const projects = [
     description:
       "This is bankin app. you can diposite your money and aslo you can widrow your money.....mail:badon@don.com, and pass: 12345, so lets checl :)",
     image:
-      "https://private-user-images.githubusercontent.com/109509856/337921372-c80ad205-2e60-4211-9782-f1f2c826bcb5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc4Njc3MTcsIm5iZiI6MTcxNzg2NzQxNywicGF0aCI6Ii8xMDk1MDk4NTYvMzM3OTIxMzcyLWM4MGFkMjA1LTJlNjAtNDIxMS05NzgyLWYxZjJjODI2YmNiNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOFQxNzIzMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMjZjMjc0MjJhYjI4NmNmM2UzYjM2MGM5ZjhlMmFlY2QwYjM0NDhhZGE5NTgwZDY4NWVlOGE3MmE2YzU5ZWJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7qPxfHjKidkg4HlVQs5HI0eGdxw4oOz-ucmJv5k9-gs",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337959584-f58c5101-f154-4216-a6b5-641157057dd9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T084744Z&X-Amz-Expires=300&X-Amz-Signature=45a276b11ae7530924754638d7587f54a590bec5694cdcee0929176eb949c366&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=647345104",
     tags: ["Html", "JavaScript", "Tailwind"],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/Simple-banking-system",

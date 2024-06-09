@@ -236,7 +236,7 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Text App",
+    title: "Tax App",
     description:
       "Text App is web Text Calculator. You can calculate you text using this app. note: this is a demo. not real :)",
     image:

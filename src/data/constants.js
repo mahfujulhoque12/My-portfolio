@@ -227,7 +227,7 @@ export const projects = [
     description:
       "IMDB clone is a movisite. here you can find all movies. here I alos use dark mode and light mood. you can search here your movie.aslo you can see top rated movies and tranding movies",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337958893-6a8862a8-bcec-4594-b868-797392e0e5ba.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T083612Z&X-Amz-Expires=300&X-Amz-Signature=69edbd26c725f2d1463b6d6eeb6a1ad83151d17de59117345d10f825f24b9e66&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=811656181",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/109509856/337960707-1fbe008c-031d-4c5a-903b-3ab0326515ea.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T090938Z&X-Amz-Expires=300&X-Amz-Signature=e31930780f0f505b651032a53d445c2f0c9aac2888c32d36c76a420567d87d73&X-Amz-SignedHeaders=host&actor_id=109509856&key_id=0&repo_id=812565124",
     tags: ["Next js","Html","Tailwind"],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/Next-IMDb-clone",

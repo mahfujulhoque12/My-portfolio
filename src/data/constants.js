@@ -206,7 +206,7 @@ export const projects = [
     id: 11,
     title: "Zoom-clonig",
     description:
-      "This is like a zoom app. you can do all of things that you can do in zoom. so let's check it out. ==========================================================NOTE: This app can't deploying. That't why I share a vodeo in github readme. please check it out.",
+      "This is like a zoom app. you can do all of things that you can do in zoom. so let's check it out. ==========================================================NOTE: This app can't deploying. That't why I share a video in github readme. please check it out.",
     image:
       "/zoom.png",
     tags: [

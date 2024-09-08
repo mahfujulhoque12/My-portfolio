@@ -203,6 +203,24 @@ export const education = [
 
 export const projects = [
   {
+    id: 11,
+    title: "Zoom-clonig",
+    description:
+      "This is like a zoom app. you can do all of things that you can do in zoom. so let's check it out. ==========================================================NOTE: This app can't deploying. That't why I share a vodeo in github readme. please check it out.",
+    image:
+      "/zoom.png",
+    tags: [
+      "Html",
+      "Css",
+      "React",
+      "Eslint",
+      "Tailwind"
+    ],
+    category: "web app",
+    github: "https://github.com/mahfujulhoque12/Zoom-clone",
+    webapp: "https://github.com/mahfujulhoque12/Zoom-clone",
+  },
+  {
     id: 10,
     title: "Admin-Dashboard",
     description:

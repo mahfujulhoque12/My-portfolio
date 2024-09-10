@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/mahfujulhoque12",
   resume:
-    "https://drive.google.com/file/d/1Z6vDg72bYfrzYpn-UbWEMrdZghrZwoAt/view",
+    "https://drive.google.com/file/d/16CCAPzStgxuhYQzP1BrMSb_INwV7rhBc/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/md-mahfujul-hoque-0a0875254/",
   twitter: "#",
   insta: "#",
@@ -206,19 +206,19 @@ export const projects = [
     id: 11,
     title: "Zoom-clonig",
     description:
-      "This is like a zoom app. you can do all of things that you can do in zoom. so let's check it out. ==========================================================NOTE: This app can't deploying. That't why I share a video in github readme. please check it out.",
+      "This is like a zoom app. you can do all of things that you can do in zoom. so let's check it out",
     image:
       "/zoom.png",
     tags: [
       "Html",
-      "Css",
-      "React",
-      "Eslint",
-      "Tailwind"
+      "Tailwind",
+      "NextJs",
+      "Stream",
+      "clerk"
     ],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/Zoom-clone",
-    webapp: "https://github.com/mahfujulhoque12/Zoom-clone",
+    webapp: "https://zoom-clone-lime-omega.vercel.app/",
   },
   {
     id: 10,

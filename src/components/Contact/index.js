@@ -152,7 +152,7 @@ const Contact = () => {
           <ContactInput placeholder="Your Name" name="from_name" />
           <ContactInput placeholder="Subject" name="subject" />
           <ContactInputMessage placeholder="Message" rows="4" name="message" />
-          <ContactButton type="submit" value="Send" />
+          <ContactButton type="submit"  value="Send"   style={{ cursor: "pointer" }} />
         </ContactForm>
         <Snackbar
           open={open}

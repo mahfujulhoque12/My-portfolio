@@ -162,7 +162,7 @@ export const experiences = [
     img:"/si.png",
     role: "Front End Developer",
     company: "Software Innovation",
-    date: "Nov 2023 - may 2024",
+    date: "Oct 2024 - continue",
     desc: "I am  working here as a jr. developer.",
     skills: [
       "Html",

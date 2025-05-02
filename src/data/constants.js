@@ -171,7 +171,13 @@ export const experiences = [
       "Tailwind",
       "JavaScript",
       "TypeScript",
-      " Next Js",
+      "React.Js",
+      "Redux Toolkit, RTk Query",
+      "React Hook Form",
+      "Zod",
+      "Next.Js",
+      "Node.js, Express.js",
+      "MySql"
     ]
   },
 ];
@@ -198,6 +204,19 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 14,
+    title: "Complete Admin B2b",
+    description:
+      "This is a Complete admin and B2B, where you can see so many forms, user table and a Dashboard.This is our compnay ongoing project. That's why I can't share the source code. the repo is private",
+    image:
+      "/b2b.png",
+    tags: ["Next js","Typescript","Tailwind","Redux-toolkit","Rtk-query"],
+    category: "web app",
+    github: "https://github.com/mahfujulhoque12/CompleteAdminDashboard",
+    webapp: "https://complete-admin-dashboard.vercel.app/",
+   
+  },
   {
     id: 12,
     title: "E-commerce Website",
@@ -232,7 +251,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/fpl-website",
-    webapp: "https://fpl-website-sage.vercel.app/",
+    webapp: "https://fpl-new.vercel.app/",
   },
   {
     id: 11,

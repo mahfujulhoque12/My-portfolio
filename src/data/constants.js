@@ -208,10 +208,10 @@ export const projects = [
     id: 14,
     title: "Complete Admin B2b",
     description:
-      "This is a Complete admin and B2B, where you can see so many forms, user table and a Dashboard.This is our compnay ongoing project. That's why I can't share the source code. the repo is private",
+      "This is a comprehensive admin dashboard and B2B web application, featuring dynamic forms, user management tables, and an interactive analytics dashboard. Built using Next.js, TypeScript, Tailwind CSS, Redux Toolkit, and RTK Query, it ensures strong performance, efficient state management, and scalability. Form handling and validation are powered by React Hook Form and Zod. As this is an ongoing internal project for our company, the source code is private and cannot be shared at this time.",
     image:
       "/b2b.png",
-    tags: ["Next js","Typescript","Tailwind","Redux-toolkit","Rtk-query"],
+    tags: ["Next js","Typescript","Tailwind","Redux-toolkit","Rtk-query","React Hook Form","Zod"],
     category: "web app",
     github: "https://github.com/mahfujulhoque12/CompleteAdminDashboard",
     webapp: "https://complete-admin-dashboard.vercel.app/",
@@ -221,7 +221,7 @@ export const projects = [
     id: 12,
     title: "E-commerce Website",
     description:
-      "This is a e commerce website, you can add product, you can add to cart, wishlist, compare etc. so let's check it out",
+      "This is a fully functional and responsive e-commerce website developed using Next.js, TypeScript, and Tailwind CSS. The platform allows users to browse products, add items to their cart, wishlist, and compare products with ease. The modern design and intuitive user interface offer a seamless shopping experience across all devices. It’s built with performance, scalability, and maintainability in mind",
     image:
       "/ecom.png",
     tags: [
@@ -239,7 +239,7 @@ export const projects = [
     id: 13,
     title: "Architecture Website",
     description:
-      "This is a architecture website. look like a bloging website. so let's check it out",
+      "This is a modern and responsive architecture website developed for Floor Planner Ltd., an architecture company. Built with Next.js, TypeScript, and Tailwind CSS, the site combines clean design with a blog-style layout to showcase architectural projects, company information, and services. It’s optimized for performance and user experience, providing a professional digital presence for the client. The website is fully live and accessible to the public",
     image:
       "/arc.png",
     tags: [
@@ -257,7 +257,7 @@ export const projects = [
     id: 11,
     title: "Zoom-clonig",
     description:
-      "This is like a zoom app. you can do all of things that you can do in zoom. so let's check it out",
+      "This project is a real-time video conferencing web application inspired by Zoom. Developed using Next.js, Tailwind CSS, HTML, Clerk for authentication, and Stream for video and audio streaming, it replicates core Zoom functionalities such as video calls, screen sharing, and meeting rooms. The interface is clean, responsive, and designed for smooth user interaction. It demonstrates the integration of modern third-party tools to create a scalable and collaborative communication platform",
     image:
       "/zoom.png",
     tags: [
@@ -271,11 +271,45 @@ export const projects = [
     github: "https://github.com/mahfujulhoque12/Zoom-clone",
     webapp: "https://zoom-clone-lime-omega.vercel.app/",
   },
+    {
+    id: 15,
+    title: "Software Company Website",
+    description:
+      "This is a modern and responsive website developed for a software company. Built using Next.js, TypeScript, and Tailwind CSS, the project ensures high performance, type safety, and a clean user interface. State management and data fetching are efficiently handled using Redux Toolkit and RTK Query, making the application scalable and maintainable. The layout is optimized for user experience and designed to reflect a professional tech brand",
+    image:
+      "/software.png",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Redux Toolkit",
+      "RTK Query"
+    ],
+    category: "web app",
+    github: "https://github.com/mahfujulhoque12/software-innovations/",
+    webapp: "https://software-innovations.vercel.app/",
+  },
+      {
+    id: 16,
+    title: "Doctor Personal Portfolio",
+    description:
+      "This is a sleek and responsive personal portfolio website designed for a medical professional. Built with Next.js, TypeScript, and Tailwind CSS, it delivers fast performance, strong type safety, and a modern, clean user interface. The site effectively showcases the doctor’s expertise, background, and services, while maintaining a professional and trustworthy look suitable for healthcare branding. Its responsive design ensures an optimal experience across all devices.",
+    image:
+      "/doctor.png",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+    ],
+    category: "web app",
+    github: "https://github.com/mahfujulhoque12/doctor-protfolio",
+    webapp: "https://doctor-protfolio.vercel.app/",
+  },
   {
     id: 10,
     title: "Admin-Dashboard",
     description:
-      "This is  a react admin dashboard, This is fully functional, I use here so many things. so let's check it out",
+      "This is a fully functional  admin dashboard built with React, HTML, CSS, and Material-UI (MUI) for modern UI components. It includes various features such as analytics widgets, data tables, user management, and form elements. ESLint is integrated to maintain clean and consistent code quality. The dashboard is designed for usability and scalability, making it suitable for managing data-driven applications or internal admin tools",
     image:
       "/admin.png",
     tags: [
@@ -293,7 +327,7 @@ export const projects = [
     id: 9,
     title: "GitHub User",
     description:
-      "GitHub User is a web aplication, you have to frist login here . Then you can see a github user dashboard. here you can see followers ,user , repo, and so on. so lets check it out ",
+      "GitHub User is a responsive web application that allows users to log in and view detailed GitHub user profiles. After authentication, users can explore GitHub data such as repositories, followers, following, and other profile information. Built with React, Redux for state management, Styled Components for scoped styling, and ESLint for code quality, the app provides a clean and intuitive interface. It’s a great example of integrating external APIs with a dynamic frontend. ",
     image:
       "/github.png",
     tags: [
@@ -312,7 +346,7 @@ export const projects = [
     id: 0,
     title: "IMDb Clone",
     description:
-      "IMDB clone is a movisite. here you can find all movies. here I alos use dark mode and light mood. you can search here your movie.aslo you can see top rated movies and tranding movies",
+      "This is a fully responsive movie browsing web application inspired by IMDb. Built with Next.js, HTML, and Tailwind CSS, the app allows users to search movies, view top-rated and trending titles, and toggle between dark mode and light mode for an enhanced user experience. The interface is clean, fast, and user-friendly, making it easy to explore a wide range of movie content. It demonstrates API integration, theming, and responsive layout design.",
     image:
       "/imdb.png",
     tags: ["Next js","Html","Tailwind"],

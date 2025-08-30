@@ -39,3 +39,7 @@ body{
   ::-webkit-scrollbar-thumb:hover {
     background: #626970;
   }
+
+  .icon-white {
+  filter: brightness(0) invert(1);
+}

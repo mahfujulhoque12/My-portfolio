@@ -98,8 +98,9 @@ export const Img = styled.img`
   width: 100%;
   height: 100%;
   max-width: 332px;
-  max-height: 408px;
+  max-height: 380px;
   border-radius: 4%;
+  object-fit: cover;
   border: 2px solid ${({ theme }) => theme.primary};
 
   @media (max-width: 768px) {

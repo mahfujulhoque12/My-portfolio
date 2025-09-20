@@ -60,6 +60,21 @@ export const skills = [
         image:
           "/mui.webp",
       },
+          {
+        name: "Framer-motion",
+        image:
+          "/motion.png",
+      },
+            {
+        name: "Zustand",
+        image:
+          "/zustand.png",
+      },
+          {
+        name: "Material UI",
+        image:
+          "/mui.webp",
+      },
       {
         name: "Tailwind",
         image:"/tailwind.webp",
@@ -254,6 +269,20 @@ export const projects = [
     category: "web app",
     webapp: "https://alarafatoasis.com/",
   },
+// ---------------------------------
+    {
+ title: "Interprise Lavel Production Grade Blog Application",
+    description:
+      "This project is a production-ready Blog application built with Next.js and Tailwind CSS for a modern, responsive UI, enhanced by shadcn components and Framer Motion animations with clip-path effects. State management and data fetching are handled by Redux Toolkit with RTK Query, while the backend is powered by NestJS and MongoDB for scalability. It includes secure JWT-based authentication, optimized database structures, and reusable design tokens with motion variants. The system prioritizes accessibility, SEO, security, and testing, delivering a fast, maintainable, and feature-rich blogging platform ready for real-world use.",
+    image:
+      "/innovia.png",
+    tags: ["Next js","Tailwind","Framer-motion", "Shadcn", "SWR", "Nets js", "MongoDb"],
+    category: "web app",
+    webapp: "https://innoviaedge.com/",
+  },
+  
+  // ---------------------------------
+
   {
     id: 14,
     title: "Complete Admin B2b",

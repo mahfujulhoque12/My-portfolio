@@ -270,6 +270,32 @@ export const projects = [
     webapp: "https://innoviaedge.com/",
   },
 
+  // realestate start
+  {
+    id: 15,
+    title: "Real Estate showcase platform",
+    description:
+      "I'm excited to share the completion of a robust, feature-rich web application designed for real estate companies to showcase their portfolios and connect with clients. This project represents a deep dive into modern full-stack development, featuring a public homepage for browsing properties for rent or sale, and full CRUD functionality that allows authenticated users to post, update, and delete their own listings and project showcases. I implemented a secure authentication system using JWT and bcrypt, integrated with Google Auth via Firebase for a seamless user experience.The application was built with a powerful tech stack, utilizing Next.js with TypeScript and Tailwind CSS on the frontend for a type-safe and responsive UI, complemented by the shadcn/ui component library. State management is efficiently handled with Redux Toolkit, while the backend is powered by a custom Express.js server with Node.js and MongoDB for data storage. Tackling the challenges of secure auth flows and seamless full-stack architecture was incredibly rewarding, and this project solidifies my grasp of the entire development lifecycle. I am open to new opportunities and would love to connect.",
+    image: "/estate.png",
+    tags: [
+      "Next js",
+      "Typescript",
+      "Tailwind",
+      "Redux-toolkit",
+      "Rtk-query",
+      "React Hook Form",
+      "Node",
+      "Express",
+      "MongoDb",
+      "JWT",
+    ],
+    category: "web app",
+    github:
+      "https://github.com/mahfujulhoque12/Real-Estate-Frontend-under-development-",
+    webapp: "https://real-estate-frontend-under-developm.vercel.app/",
+  },
+  // realestate end
+
   // ---------------------------------
 
   {
@@ -292,6 +318,7 @@ export const projects = [
     webapp: "https://complete-admin-dashboard.vercel.app/",
   },
   // ---------------------------------
+
   {
     title: "Weather App",
     description:

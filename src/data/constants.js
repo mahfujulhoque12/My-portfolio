@@ -282,7 +282,6 @@ export const projects = [
       "Typescript",
       "Tailwind",
       "Redux-toolkit",
-      "Rtk-query",
       "React Hook Form",
       "Node",
       "Express",

@@ -24,18 +24,22 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to="/">
-          <a
+          <button
             style={{
               display: "flex",
               alignItems: "center",
               color: "white",
-              marginBottom: "20;",
+              marginBottom: "20px",
               cursor: "pointer",
+              background: "none",
+              border: "none",
+              padding: 0,
             }}
           >
             <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
+          </button>
         </NavLogo>
+
         <MobileIcon>
           <FaBars
             onClick={() => {

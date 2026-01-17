@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import _default from "../../themes/default";
 
 export const HeroContainer = styled.div`
   background: ${({ theme }) => theme.card_light};
@@ -93,7 +92,6 @@ export const HeroRightContainer = styled.div`
 `;
 
 export const Img = styled.img`
-
   position: relative;
   width: 100%;
   height: 100%;
@@ -104,8 +102,8 @@ export const Img = styled.img`
   border: 2px solid ${({ theme }) => theme.primary};
 
   @media (max-width: 768px) {
-  max-width: 332px;
-  max-height: 408px;
+    max-width: 332px;
+    max-height: 408px;
   }
 
   @media (max-width: 640px) {

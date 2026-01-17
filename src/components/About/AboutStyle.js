@@ -1,6 +1,4 @@
-import styled from 'styled-components';
-import _default from '../../themes/default';
-
+import styled from "styled-components";
 
 export const SocialMediaIcons = styled.div`
   display: flex;

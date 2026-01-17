@@ -13,6 +13,7 @@ import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
+import LenisWrapper from "./components/lenis/LenisWrapper.jsx";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -21,7 +22,8 @@ const Body = styled.div`
 `;
 
 const Wrapper = styled.div`
-  background: linear-gradient(
+  background:
+    linear-gradient(
       38.73deg,
       rgba(204, 0, 187, 0.15) 0%,
       rgba(201, 32, 184, 0) 50%
@@ -40,6 +42,7 @@ function App() {
   return (
     <ThemeProvider theme={darkTheme}>
       <Router>
+        <LenisWrapper />
         <Navbar />
         <Body>
           <HeroSection />

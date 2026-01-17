@@ -160,7 +160,6 @@ export const skills = [
 ];
 
 export const experiences = [
-  ,
   {
     id: 1,
     img: "/innovia.webp",

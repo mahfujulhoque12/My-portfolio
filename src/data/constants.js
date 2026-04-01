@@ -161,6 +161,30 @@ export const skills = [
 
 export const experiences = [
   {
+    id: 2,
+    img: "/Wezapss.png",
+    role: "Front End Developer",
+    company: "Wezapps Limited",
+    date: "December 2025 - Current",
+    desc: "I am  working here as a Frontend developer.",
+    skills: [
+      "Html",
+      "Css",
+      "Bootstrap",
+      "Tailwind",
+      "JavaScript",
+      "TypeScript",
+      "React.Js",
+      "Redux Toolkit, RTk Query",
+      "shadCn",
+      "React Hook Form",
+      "Zod",
+      "Next.Js",
+      "Node.js, Express.js",
+      "MongoDb",
+    ],
+  },
+  {
     id: 1,
     img: "/innovia.webp",
     role: "Front End Developer",
